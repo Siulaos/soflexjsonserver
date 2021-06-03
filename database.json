@@ -1,16 +1,9 @@
 {
   "orders": [
-    {
-      "id": 1,
-      "date": "Date1",
-      "clientName": "Yanet",
-      "deleted": 0
-    },
-    {
-      "id": 3,
-      "date": "Date2",
-      "clientName": "Jimy",
-      "deleted": 0
-    }
+  ],
+  "clientNames": [
+    "Luis",
+    "Sofía",
+    "Yanet"
   ]
 }
